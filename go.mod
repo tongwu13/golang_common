@@ -1,4 +1,4 @@
-module gitlab.aibee.cn/platform/golang_common
+module github.com/tongwu13/golang_common
 
 go 1.12
 

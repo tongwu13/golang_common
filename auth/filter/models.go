@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"github.com/astaxie/beego/httplib"
 	"github.com/astaxie/beego/logs"
-	"gitlab.aibee.cn/platform/golang_common/beego/controllers"
+	"github.com/tongwu13/golang_common/beego/controllers"
 	"time"
 )
 
